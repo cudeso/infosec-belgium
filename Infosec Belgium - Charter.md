@@ -23,17 +23,17 @@ Infosec Belgium - Charter
     * This is an open channel
     * Only share TLP:White (and to some extend TLP:Green) information. ["How to use the traffic light protocol – TLP"](https://www.vanimpe.eu/2015/08/21/use-traffic-light-protocol-tlp/) 
 * Be polite enough to request if attribution is OK if you want to share information shared in the group with an outside community
-    * Otherwise Chatham House rules apply
+    * Otherwise [Chatham House rule]("https://en.wikipedia.org/wiki/Chatham_House_Rule") applies 
 * Be respectful
 * Use moderation when ranting
     * Except when it's early morning and the coffee machine is broken
 * No sales-pitches
-    * But you can show-off what you're working on
+    * But please share what you're working on
 
 ## Channels
-* security-cafe : Security information
+* security-cafe : Security information & coffee machine talk
 * random-fun : Have fun
 
 ## Questions?
 * Ask them in the group
-* Contact one of the admins admin@admin.admin
+* Contact Stijn: stijn@falconprojects.eu
