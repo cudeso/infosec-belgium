@@ -21,9 +21,9 @@ Infosec Belgium - Charter
 * Use common sense
 * Do not share *sensitive information*
     * This is an open channel
-    * Only share TLP:White (and to some extend TLP:Green) information. ["How to use the traffic light protocol – TLP"](https://www.vanimpe.eu/2015/08/21/use-traffic-light-protocol-tlp/) 
+    * Only share TLP:White (and to some extend TLP:Green) information. [How to use the traffic light protocol – TLP](https://www.vanimpe.eu/2015/08/21/use-traffic-light-protocol-tlp/) 
 * Be polite enough to request if attribution is OK if you want to share information shared in the group with an outside community
-    * Otherwise [Chatham House rule]("https://en.wikipedia.org/wiki/Chatham_House_Rule") applies 
+    * Otherwise [Chatham House rule](https://en.wikipedia.org/wiki/Chatham_House_Rule) applies 
 * Be respectful
 * Use moderation when ranting
     * Except when it's early morning and the coffee machine is broken
@@ -33,6 +33,15 @@ Infosec Belgium - Charter
 ## Channels
 * security-cafe : Security information & coffee machine talk
 * random-fun : Have fun
+
+## Message retention
+
+We're using the default message retention option provided by slack, reproduced below. This is the only option currently available on the free plan.
+
+    Retain all messages
+    This is the default setting. Slack will retain all of your team's messages, but will not keep logs of user's message edits and deletions, found in a team's data export. 
+
+[source](https://get.slack.help/hc/en-us/articles/203457187-Custom-message-and-file-retention)
 
 ## Questions?
 * Ask them in the group
