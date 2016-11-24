@@ -33,6 +33,7 @@ Infosec Belgium - Charter
 ## Channels
 * security-cafe : Security information & coffee machine talk
 * random-fun : Have fun
+* security-quiz : Paste output of a tool and let someone guess the name of the tool , post security-quiz questions
 
 ## Message retention
 
