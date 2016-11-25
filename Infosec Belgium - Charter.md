@@ -19,6 +19,7 @@ Infosec Belgium - Charter
 ## Rules
 
 * Use common sense
+* Channel language is English
 * Do not share *sensitive information*
     * This is an open channel
     * Only share TLP:White (and to some extend TLP:Green) information. [How to use the traffic light protocol – TLP](https://www.vanimpe.eu/2015/08/21/use-traffic-light-protocol-tlp/) 
@@ -46,4 +47,4 @@ We're using the default message retention option provided by slack, reproduced b
 
 ## Questions?
 * Ask them in the group
-* Contact Stijn: stijn@falconprojects.eu
+* Contact Stijn: infosec@falconprojects.eu
