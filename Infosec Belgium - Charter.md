@@ -43,7 +43,7 @@ We're using the default message retention option provided by slack, reproduced b
     Retain all messages
     This is the default setting. Slack will retain all of your team's messages, but will not keep logs of user's message edits and deletions, found in a team's data export. 
 
-[source](https://get.slack.help/hc/en-us/articles/203457187-Custom-message-and-file-retention)
+[Custom-message-and-file-retention by Slack](https://get.slack.help/hc/en-us/articles/203457187-Custom-message-and-file-retention)
 
 ## Questions?
 * Ask them in the group
