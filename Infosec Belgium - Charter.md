@@ -16,6 +16,20 @@ Infosec Belgium - Charter
 * No vetting procedure
     * But if the consensus of the group is that you're PITA then you can get banned
 
+## Introduce yourself!
+
+After becoming a member you should introduce yourself. We have a bot for this. Send a direct message to the *seccy* bot with your bio.
+
+```
+@seccy bio add YourBio
+```
+
+You can view your (or someone else) bio with
+
+```
+@seccy bio <username>
+```
+
 ## Rules
 
 * Use common sense
@@ -35,6 +49,8 @@ Infosec Belgium - Charter
 * security-cafe : Security information & coffee machine talk
 * random-fun : Have fun
 * security-quiz : Paste output of a tool and let someone guess the name of the tool , post security-quiz questions
+* jobs : job postings or people looking for a job
+* events_and_confs : conference and event announces
 
 ## Message retention
 
