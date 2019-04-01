@@ -11,8 +11,9 @@ Infosec Belgium - Charter
 
 ## Become a member
 
-* The channel is invite only
+* ~~The channel is invite only~~
 * Everyone can invite someone whom they think might be an addition to the group
+* Or you can invite yourself. Use [Slack Signup](https://infosecbelgium.slack.com/join/shared_invite/enQtNTk3MDUxNzM2ODA3LTYyZWNjMmMxZmI2M2RjY2Y5YzQ2Y2VmYjIyNTVlYTMyZmNkMWUxZWI4ZjdjNWU0NjZjZWUyYmM2NzlmYzdlNTg)  
 * No vetting procedure
     * But if the consensus of the group is that you're PITA then you can get banned
 
