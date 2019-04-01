@@ -18,7 +18,9 @@ Infosec Belgium - Charter
 
 ## Introduce yourself!
 
-After becoming a member you should introduce yourself. We have a bot for this. Send a direct message to the *seccy* bot with your bio.
+After becoming a member you should introduce yourself. We ~~have~~ had a bot for this. Seccy is undergoing some maintenance, please be patient.
+
+Send a direct message to the *seccy* bot with your bio.
 
 ```
 @seccy bio add YourBio
